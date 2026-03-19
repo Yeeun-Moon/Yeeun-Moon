@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I'm Yeeun, </li>a full stack/software developer based in Vancouver  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I'm Yen, </li>a full stack/software developer based in Vancouver  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
